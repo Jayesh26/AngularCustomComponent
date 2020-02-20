@@ -12,6 +12,13 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
+`ng new FirstAngularElement`
+`ng add @angular/elements `										// to add elements
+`ng g c button --inline-style --inline-template -v Native`		// to create button component
+
+`npm run package`													// run 
+`npm run build`													// build project
+
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
